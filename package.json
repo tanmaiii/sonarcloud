@@ -6,7 +6,8 @@
     "dev": "next dev --turbopack",
     "build": "next build",
     "start": "next start",
-    "lint": "next lint"
+    "lint": "next lint",
+    "lint:report": "eslint . --ext .ts,.tsx --format json --output-file eslint-report.json"
   },
   "dependencies": {
     "react": "^19.0.0",
