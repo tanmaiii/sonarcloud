@@ -98,7 +98,7 @@ Sau khi workflow chạy xong:
 
 ## 🔄 Quality Gates
 
-SonarCloud sẽ kiểm tra :
+SonarCloud sẽ kiểm tra   :
 
 - **Duplicated Lines** < 3%
 - **Maintainability Rating** = A
